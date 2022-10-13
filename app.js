@@ -1,1 +1,3 @@
 // server
+
+alert('aktualizcja pwtes');
